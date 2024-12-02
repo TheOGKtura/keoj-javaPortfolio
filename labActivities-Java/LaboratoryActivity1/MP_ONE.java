@@ -1,0 +1,5 @@
+public class MP_ONE{
+    public static void main(String[] args) {
+        System.out.println("NAME: SIOCO, KEOJ LYLE M. \nADDRESS: 3 BERANRDO ST., BRGY. CONCEPCION, MALABON CITY, METRO MANILA, 1470 \nCONTACT NO.: 09563860386 \nCOLLEGE MAJOR: BACHLER OF SCIENCE IN COMPUTER ENGINEERING");
+    }
+}
